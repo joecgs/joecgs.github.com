@@ -4,10 +4,9 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+陈虎, 11年计算机专业毕业,
+一直从事游戏服务端设计/开发/运营支持, 有千万注册和十万同时在线游戏的运营支持经历.
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱: joecgs@foxmail.com
+新浪微博: [http://weibo.com/joecgs](http://weibo.com/joecgs)
+github : [https://github.com/joecgs](https://github.com/joecgs)
