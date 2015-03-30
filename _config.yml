@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://joecgs.github.com
+url: http://joecgs.github.io
 author: 陈虎
 pygments: true
 paginate: 24
